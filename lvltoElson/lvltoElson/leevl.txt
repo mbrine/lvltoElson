@@ -1,0 +1,12 @@
+GameObject=Wall,0-0,2,50
+GameObject=Wall,2-0,146,2
+GameObject=Wall,2-11,12,1
+GameObject=Wall,2-48,85,2
+GameObject=Wall,14-6,1,6
+GameObject=Wall,26-38,13,1
+GameObject=Wall,49-29,13,1
+GameObject=Wall,87-23,1,27
+GameObject=Wall,88-48,60,2
+GameObject=Wall,121-39,13,1
+GameObject=Wall,122-23,13,1
+GameObject=Wall,148-0,2,50

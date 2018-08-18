@@ -1,0 +1,8 @@
+﻿  Matt-lvltoElson.cpp
+c:\users\matthew chan\source\repos\lvltoelson\lvltoelson\matt-lvltoelson.cpp(15): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\matthew chan\source\repos\lvltoelson\lvltoelson\matt-lvltoelson.cpp(42): warning C4018: '<=': signed/unsigned mismatch
+c:\users\matthew chan\source\repos\lvltoelson\lvltoelson\matt-lvltoelson.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew chan\source\repos\lvltoelson\lvltoelson\matt-lvltoelson.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew chan\source\repos\lvltoelson\lvltoelson\matt-lvltoelson.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew chan\source\repos\lvltoelson\lvltoelson\matt-lvltoelson.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  lvltoElson.vcxproj -> c:\users\matthew chan\source\repos\lvltoElson\Debug\lvltoElson.exe
